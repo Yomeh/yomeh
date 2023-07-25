@@ -1,20 +1,7 @@
-#### Hi there 👋
-# My name is Samuel Yomeh
-#### **I am a Project Manager**
+👋Hi, I'm Samuel Yomeh
+- 🔭 I'm a Project manager and a Civil Engineer
+- 👀 I’m interested in Business Intelligence and Data Analysis
+- 🌱 I’m currently learning Microsoft Excel, SQL, Power BI, Python
+- 👯 I’m looking to collaborate on Data Analysis projects and product designs
+- 📫 How to reach me via Linkedin @ www.linkedin.com/in/samuel-ogheneroboh   
 
-I am also a Data Analyst in training
-
-<!--
-**Yomeh/yomeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
