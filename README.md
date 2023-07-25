@@ -1,4 +1,8 @@
-### Hi there 👋
+#### Hi there 👋
+# My name is Samuel Yomeh
+#### **I am a Project Manager**
+
+I am also a Data Analyst in training
 
 <!--
 **Yomeh/yomeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
